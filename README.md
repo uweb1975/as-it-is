@@ -1,0 +1,8 @@
+# as-it-is
+it is as it is
+
+A small collection of Scripts used in the past.
+Maybe some of them are older as you.
+For any reason, feel free to start a pull request and make some optimizions.
+
+2018-10-11/ub
